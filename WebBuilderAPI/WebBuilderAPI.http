@@ -1,0 +1,6 @@
+@WebBuilderAPI_HostAddress = http://localhost:5282
+
+GET {{WebBuilderAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
